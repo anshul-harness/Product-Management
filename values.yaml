@@ -1,6 +1,8 @@
 name: rohan-cdng
 replicas: 2
 
+image: bluebbb/godemo:<+pipeline.sequenceId>
+
 
 createNamespace: true
 namespace: <+infrastructure.namespace>
