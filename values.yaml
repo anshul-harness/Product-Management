@@ -1,4 +1,4 @@
-name: rohan-cdng
+name: todolist-beta
 replicas: 2
 
 image: us.gcr.io/playground-243019/todolist:2.1-branch
