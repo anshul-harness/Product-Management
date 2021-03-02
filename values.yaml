@@ -26,6 +26,10 @@ serviceType: LoadBalancer
 
 env:
   config:
-    key1: harnessDemo
+    usecase: harnessDemo
+    department: productManagement
+    owner: uri 
+    
   secrets:
     key2: thisSecret
+  
