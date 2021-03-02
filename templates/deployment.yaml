@@ -38,7 +38,7 @@ spec:
       containers:
       - name: {{.Values.name}}
         image: library/nginx
-        readinessProbe:
+#         readinessProbe:
 #           httpGet:
 #             scheme: HTTP
 #             path: /
