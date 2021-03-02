@@ -1,7 +1,7 @@
 name: rohan-cdng
 replicas: 2
 
-image: bluebbb/godemo:<+pipeline.sequenceId>
+image: us.gcr.io/playground-243019/todolist:2.1-branch
 
 
 createNamespace: true
