@@ -1,5 +1,5 @@
 name: nginx-beta
-replicas: 2
+replicas: 1
 
 # image: us.gcr.io/playground-243019/todolist:2.1-branch
 
